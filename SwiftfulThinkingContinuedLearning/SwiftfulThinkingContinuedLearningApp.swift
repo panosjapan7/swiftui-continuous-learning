@@ -14,7 +14,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            ContentView()
 //            MagnificationGestureBootcamp()
 //            RotationGestureBootcamp()
-            DragGestureBootcamp()
+//            DragGestureBootcamp()
+            GeometryReaderBootcamp()
         }
     }
 }
