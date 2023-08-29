@@ -13,7 +13,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
         WindowGroup {
 //            ContentView()
 //            MagnificationGestureBootcamp()
-            RotationGestureBootcamp()
+//            RotationGestureBootcamp()
+            DragGestureBootcamp()
         }
     }
 }
