@@ -19,6 +19,7 @@
 		243165092A9E0A54007BF78B /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 243165082A9E0A54007BF78B /* ScrollViewReaderBootcamp.swift */; };
 		2431650B2A9E2B13007BF78B /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2431650A2A9E2B13007BF78B /* GeometryReaderBootcamp.swift */; };
 		2431650D2A9E322F007BF78B /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2431650C2A9E322F007BF78B /* MultipleSheetsBootcamp.swift */; };
+		2431650F2A9E3C70007BF78B /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2431650E2A9E3C70007BF78B /* MaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		243165082A9E0A54007BF78B /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		2431650A2A9E2B13007BF78B /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		2431650C2A9E322F007BF78B /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		2431650E2A9E3C70007BF78B /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				243165082A9E0A54007BF78B /* ScrollViewReaderBootcamp.swift */,
 				2431650A2A9E2B13007BF78B /* GeometryReaderBootcamp.swift */,
 				2431650C2A9E322F007BF78B /* MultipleSheetsBootcamp.swift */,
+				2431650E2A9E3C70007BF78B /* MaskBootcamp.swift */,
 				243164F42A9DBEB9007BF78B /* Assets.xcassets */,
 				243164F62A9DBEB9007BF78B /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				243165072A9DEAAB007BF78B /* DragGestureBootcamp2.swift in Sources */,
+				2431650F2A9E3C70007BF78B /* MaskBootcamp.swift in Sources */,
 				243165052A9DE2FF007BF78B /* DragGestureBootcamp.swift in Sources */,
 				243164F32A9DBEB7007BF78B /* ContentView.swift in Sources */,
 				243165092A9E0A54007BF78B /* ScrollViewReaderBootcamp.swift in Sources */,
