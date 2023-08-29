@@ -12,6 +12,7 @@
 		243164F52A9DBEB9007BF78B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 243164F42A9DBEB9007BF78B /* Assets.xcassets */; };
 		243164F82A9DBEB9007BF78B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 243164F72A9DBEB9007BF78B /* Preview Assets.xcassets */; };
 		243164FF2A9DBF33007BF78B /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 243164FE2A9DBF33007BF78B /* LongPressGestureBootcamp.swift */; };
+		243165012A9DC65B007BF78B /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 243165002A9DC65B007BF78B /* MagnificationGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		243164F42A9DBEB9007BF78B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		243164F72A9DBEB9007BF78B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		243164FE2A9DBF33007BF78B /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
+		243165002A9DC65B007BF78B /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				243164F02A9DBEB7007BF78B /* SwiftfulThinkingContinuedLearningApp.swift */,
 				243164F22A9DBEB7007BF78B /* ContentView.swift */,
 				243164FE2A9DBF33007BF78B /* LongPressGestureBootcamp.swift */,
+				243165002A9DC65B007BF78B /* MagnificationGestureBootcamp.swift */,
 				243164F42A9DBEB9007BF78B /* Assets.xcassets */,
 				243164F62A9DBEB9007BF78B /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				243164F32A9DBEB7007BF78B /* ContentView.swift in Sources */,
 				243164F12A9DBEB7007BF78B /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
+				243165012A9DC65B007BF78B /* MagnificationGestureBootcamp.swift in Sources */,
 				243164FF2A9DBF33007BF78B /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
