@@ -4,10 +4,12 @@ import SwiftUI
 
 struct MyCustomModel: Hashable {
     let title: String
-    let subtitle: String
+//    let subtitle: String
     
     func hash(into hasher: inout Hasher) {
-        hasher.combine(title + subtitle) // this will create a unique hashable value based on the tittle + subtitle
+        // this will create a unique hashable value based on the tittle + subtitle
+//        hasher.combine(title + subtitle)
+        hasher.combine(title)
     }
 }
 
