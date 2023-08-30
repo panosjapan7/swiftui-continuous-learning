@@ -17,7 +17,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            DragGestureBootcamp()
 //            GeometryReaderBootcamp()
 //            HapticsBootcamp()
-            LocalNotificationBootcamp()
+//            LocalNotificationBootcamp()
+            CoreDataBootcamp()
         }
     }
 }
