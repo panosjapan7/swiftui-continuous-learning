@@ -20,7 +20,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            LocalNotificationBootcamp()
 //            CoreDataBootcamp()
 //            CoreDataRelationshipsBootcamp()
-            BackgroundThreadBootcamp()
+//            BackgroundThreadBootcamp()
+            WeakSelfBootcamp()
         }
     }
 }

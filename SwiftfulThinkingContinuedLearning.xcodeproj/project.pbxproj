@@ -32,6 +32,7 @@
 		24569B292A9F5BFA0013B839 /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24569B282A9F5BFA0013B839 /* CoreDataRelationshipsBootcamp.swift */; };
 		24569B2C2A9F88EA0013B839 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 24569B2A2A9F88EA0013B839 /* CoreDataContainer.xcdatamodeld */; };
 		24FC52FB2AA06A360092B60F /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FC52FA2AA06A360092B60F /* BackgroundThreadBootcamp.swift */; };
+		24FC52FD2AA078730092B60F /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FC52FC2AA078730092B60F /* WeakSelfBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		24569B282A9F5BFA0013B839 /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
 		24569B2B2A9F88EA0013B839 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		24FC52FA2AA06A360092B60F /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
+		24FC52FC2AA078730092B60F /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				24569B232A9F3E510013B839 /* CoreDataBootcamp.swift */,
 				24569B282A9F5BFA0013B839 /* CoreDataRelationshipsBootcamp.swift */,
 				24FC52FA2AA06A360092B60F /* BackgroundThreadBootcamp.swift */,
+				24FC52FC2AA078730092B60F /* WeakSelfBootcamp.swift */,
 				24569B2A2A9F88EA0013B839 /* CoreDataContainer.xcdatamodeld */,
 				24569B252A9F51E10013B839 /* FruitsContainer.xcdatamodeld */,
 				243165122A9E471B007BF78B /* Sounds */,
@@ -224,6 +227,7 @@
 				2431651A2A9E4CBB007BF78B /* LocalNotificationBootcamp.swift in Sources */,
 				243165092A9E0A54007BF78B /* ScrollViewReaderBootcamp.swift in Sources */,
 				2431650D2A9E322F007BF78B /* MultipleSheetsBootcamp.swift in Sources */,
+				24FC52FD2AA078730092B60F /* WeakSelfBootcamp.swift in Sources */,
 				243164F12A9DBEB7007BF78B /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
 				243165012A9DC65B007BF78B /* MagnificationGestureBootcamp.swift in Sources */,
 				2431650B2A9E2B13007BF78B /* GeometryReaderBootcamp.swift in Sources */,
