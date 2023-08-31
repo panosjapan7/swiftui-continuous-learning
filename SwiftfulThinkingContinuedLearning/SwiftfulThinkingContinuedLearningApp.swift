@@ -19,7 +19,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            HapticsBootcamp()
 //            LocalNotificationBootcamp()
 //            CoreDataBootcamp()
-            CoreDataRelationshipsBootcamp()
+//            CoreDataRelationshipsBootcamp()
+            BackgroundThreadBootcamp()
         }
     }
 }
