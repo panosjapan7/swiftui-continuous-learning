@@ -21,7 +21,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            CoreDataBootcamp()
 //            CoreDataRelationshipsBootcamp()
 //            BackgroundThreadBootcamp()
-            WeakSelfBootcamp()
+//            WeakSelfBootcamp()
+            CodableBootcamp()
         }
     }
 }
