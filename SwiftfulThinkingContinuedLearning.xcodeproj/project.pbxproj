@@ -31,6 +31,7 @@
 		24569B272A9F51E10013B839 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 24569B252A9F51E10013B839 /* FruitsContainer.xcdatamodeld */; };
 		24569B292A9F5BFA0013B839 /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24569B282A9F5BFA0013B839 /* CoreDataRelationshipsBootcamp.swift */; };
 		24569B2C2A9F88EA0013B839 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 24569B2A2A9F88EA0013B839 /* CoreDataContainer.xcdatamodeld */; };
+		24E6D80D2AA0E45200CE671B /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E6D80C2AA0E45200CE671B /* DownloadWithCombine.swift */; };
 		24FC52FB2AA06A360092B60F /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FC52FA2AA06A360092B60F /* BackgroundThreadBootcamp.swift */; };
 		24FC52FD2AA078730092B60F /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FC52FC2AA078730092B60F /* WeakSelfBootcamp.swift */; };
 		24FC52FF2AA081E00092B60F /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FC52FE2AA081E00092B60F /* TypealiasBootcamp.swift */; };
@@ -65,6 +66,7 @@
 		24569B262A9F51E10013B839 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		24569B282A9F5BFA0013B839 /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
 		24569B2B2A9F88EA0013B839 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
+		24E6D80C2AA0E45200CE671B /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 		24FC52FA2AA06A360092B60F /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		24FC52FC2AA078730092B60F /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		24FC52FE2AA081E00092B60F /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				24FC53002AA087340092B60F /* EscapingBootcamp.swift */,
 				24FC53022AA08FF20092B60F /* CodableBootcamp.swift */,
 				24FC53042AA0A77C0092B60F /* DownloadWithEscapingBootcamp.swift */,
+				24E6D80C2AA0E45200CE671B /* DownloadWithCombine.swift */,
 				24569B2A2A9F88EA0013B839 /* CoreDataContainer.xcdatamodeld */,
 				24569B252A9F51E10013B839 /* FruitsContainer.xcdatamodeld */,
 				243165122A9E471B007BF78B /* Sounds */,
@@ -227,6 +230,7 @@
 			files = (
 				24FC53012AA087340092B60F /* EscapingBootcamp.swift in Sources */,
 				24569B272A9F51E10013B839 /* FruitsContainer.xcdatamodeld in Sources */,
+				24E6D80D2AA0E45200CE671B /* DownloadWithCombine.swift in Sources */,
 				24569B012A9F197E0013B839 /* HashableBootcamp.swift in Sources */,
 				243165112A9E4206007BF78B /* SoundsBootcamp.swift in Sources */,
 				24FC52FB2AA06A360092B60F /* BackgroundThreadBootcamp.swift in Sources */,

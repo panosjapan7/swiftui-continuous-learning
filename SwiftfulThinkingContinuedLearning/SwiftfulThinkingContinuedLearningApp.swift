@@ -23,7 +23,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            BackgroundThreadBootcamp()
 //            WeakSelfBootcamp()
 //            CodableBootcamp()
-            DownloadWithEscapingBootcamp()
+//            DownloadWithEscapingBootcamp()
+            DownloadWithCombine()
         }
     }
 }
