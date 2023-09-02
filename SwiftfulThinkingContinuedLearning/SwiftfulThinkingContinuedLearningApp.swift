@@ -26,7 +26,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            DownloadWithEscapingBootcamp()
 //            DownloadWithCombine()
 //            FileManagerBootcamp()
-            DownloadingImagesBootcamp()
+//            DownloadingImagesBootcamp()
+            AccessibilityColorsBootcamp()
         }
     }
 }
