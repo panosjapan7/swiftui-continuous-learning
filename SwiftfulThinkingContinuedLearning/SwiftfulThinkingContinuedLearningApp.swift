@@ -25,7 +25,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
 //            CodableBootcamp()
 //            DownloadWithEscapingBootcamp()
 //            DownloadWithCombine()
-            FileManagerBootcamp()
+//            FileManagerBootcamp()
+            DownloadingImagesBootcamp()
         }
     }
 }
