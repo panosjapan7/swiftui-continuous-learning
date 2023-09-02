@@ -46,6 +46,7 @@
 		2478AAAD2AA3096C00281AD8 /* PhotoModelFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2478AAAC2AA3096C00281AD8 /* PhotoModelFileManager.swift */; };
 		2478AAAF2AA314D300281AD8 /* AccessibilityTextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2478AAAE2AA314D300281AD8 /* AccessibilityTextBootcamp.swift */; };
 		24DAD5242AA322E000453E17 /* AccessibilityColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DAD5232AA322E000453E17 /* AccessibilityColorsBootcamp.swift */; };
+		24DAD5262AA3423D00453E17 /* AccessibilityVoiceOverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DAD5252AA3423D00453E17 /* AccessibilityVoiceOverBootcamp.swift */; };
 		24E6D80D2AA0E45200CE671B /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E6D80C2AA0E45200CE671B /* DownloadWithCombine.swift */; };
 		24FC52FB2AA06A360092B60F /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FC52FA2AA06A360092B60F /* BackgroundThreadBootcamp.swift */; };
 		24FC52FD2AA078730092B60F /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FC52FC2AA078730092B60F /* WeakSelfBootcamp.swift */; };
@@ -96,6 +97,7 @@
 		2478AAAC2AA3096C00281AD8 /* PhotoModelFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModelFileManager.swift; sourceTree = "<group>"; };
 		2478AAAE2AA314D300281AD8 /* AccessibilityTextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityTextBootcamp.swift; sourceTree = "<group>"; };
 		24DAD5232AA322E000453E17 /* AccessibilityColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityColorsBootcamp.swift; sourceTree = "<group>"; };
+		24DAD5252AA3423D00453E17 /* AccessibilityVoiceOverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityVoiceOverBootcamp.swift; sourceTree = "<group>"; };
 		24E6D80C2AA0E45200CE671B /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 		24FC52FA2AA06A360092B60F /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		24FC52FC2AA078730092B60F /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				244907FC2AA219B3003D5074 /* CacheBootcamp.swift */,
 				2478AAAE2AA314D300281AD8 /* AccessibilityTextBootcamp.swift */,
 				24DAD5232AA322E000453E17 /* AccessibilityColorsBootcamp.swift */,
+				24DAD5252AA3423D00453E17 /* AccessibilityVoiceOverBootcamp.swift */,
 				244907FE2AA2358E003D5074 /* DownloadingImages */,
 				24569B2A2A9F88EA0013B839 /* CoreDataContainer.xcdatamodeld */,
 				24569B252A9F51E10013B839 /* FruitsContainer.xcdatamodeld */,
@@ -345,6 +348,7 @@
 				243165012A9DC65B007BF78B /* MagnificationGestureBootcamp.swift in Sources */,
 				244908102AA24416003D5074 /* ImageLoadingViewModel.swift in Sources */,
 				2431650B2A9E2B13007BF78B /* GeometryReaderBootcamp.swift in Sources */,
+				24DAD5262AA3423D00453E17 /* AccessibilityVoiceOverBootcamp.swift in Sources */,
 				243165182A9E4935007BF78B /* HapticsBootcamp.swift in Sources */,
 				244908042AA235F0003D5074 /* DownloadingImagesBootcamp.swift in Sources */,
 				244908082AA238AC003D5074 /* DownloadingImagesViewModel.swift in Sources */,
